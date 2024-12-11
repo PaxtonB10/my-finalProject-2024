@@ -4,6 +4,8 @@
 <li> Easy access </li>
 <li> pictures</li>
 <head> <b> Reccomended for</b></head>
-<li> Tyler, The Creator fans</li>
+<li> Knedrick lamar fans</li>
 <li> Fans of hip-hop </li>
-<li> people who want to learn Tyler, the Creator music</li>
+<li> people who want to learn Kendrick Lamars music</li>
+<li> In depth description of each album</li>
+<li>13 and up </li>
